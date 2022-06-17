@@ -10,3 +10,6 @@ ieee-fraud-detection/test_transaction.csv
 ieee-fraud-detection/train_identity.csv
 ieee-fraud-detection/train_transaction.csv
 preprocesses/__pycache__/preprocess_V.cpython-38.pyc
+preprocesses/__pycache__/preprocess_C.cpython-38.pyc
+preprocesses/__pycache__/preprocess_classreduce.cpython-38.pyc
+preprocesses/__pycache__/preprocess_dropcol.cpython-38.pyc
