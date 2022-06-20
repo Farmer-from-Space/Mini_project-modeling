@@ -13,3 +13,7 @@ preprocesses/__pycache__/preprocess_V.cpython-38.pyc
 preprocesses/__pycache__/preprocess_C.cpython-38.pyc
 preprocesses/__pycache__/preprocess_classreduce.cpython-38.pyc
 preprocesses/__pycache__/preprocess_dropcol.cpython-38.pyc
+preprocesses/__pycache__/preprocess_uid.cpython-38.pyc
+preprocesses/__pycache__/preprocess_M.cpython-38.pyc
+models/__pycache__/model_xgb.cpython-38.pyc
+uid+clss_xgb01.csv
